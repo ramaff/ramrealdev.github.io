@@ -1,4 +1,4 @@
-@import url('http://fonts.googleapis.com/css?family=B612');
+@import url(http://fonts.googleapis.com/css?family=B612:400,500,400);
 
 * {
     box-sizing: border-box;
@@ -247,6 +247,7 @@ iframe {
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
+    font-weight: lighter;
 }
 
 /* Links inside the dropdown */
@@ -255,6 +256,7 @@ iframe {
     padding: 12px 16px;
     text-decoration: none;
     display: block;
+    font-weight: lighter;
 }
 
 /* Change color of dropdown links on hover */
