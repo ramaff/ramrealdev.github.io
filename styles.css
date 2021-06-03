@@ -1,8 +1,8 @@
-@import url('http://fonts.googleapis.com/css?family=Raleway:300,400');
+@import url('http://fonts.googleapis.com/css?family=B612');
 
 * {
     box-sizing: border-box;
-    font-family: Raleway;
+    font-family: B612;
     color: white;
 }
 
@@ -69,7 +69,7 @@ html, body {
 }
 
 .container {
-    max-width: 900px;
+    max-width: 1200px;
     margin: 0 auto;
     padding: 0 1.5em;
 }
@@ -203,14 +203,19 @@ html, body {
 /* Center other elements */
 .strong-center {
     margin:auto;
-    width: 50%;
+    width: 100%;
     padding: 10px;
 }
 
 .center-video {
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
+    margin:auto;
+    width: 100%;
+    padding: 10px;
+}
+
+iframe {
+    width: "1120";
+    height: "630";
 }
 
 /* Style The Dropdown Button */
