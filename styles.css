@@ -2,7 +2,7 @@
 
 * {
     box-sizing: border-box;
-    font-family: B612;
+    font-family: 'Verdana';
     color: white;
 }
 
@@ -222,8 +222,7 @@ iframe {
 .dropbtn {
     display: inline-block;
     padding: .5em;
-    color: white;
-    text-decoration: none;
+    color: rgb(255, 255, 255);
     border: none;
     cursor: pointer;
     background-color: rgba(255,255,255, 0);
