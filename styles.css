@@ -89,6 +89,14 @@ html, body {
     border-radius: 50%;
 }
 
+.four-ramaf-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 40%;
+}
+
 .main-footer {
     background-color: deeppink;
     color: white;
